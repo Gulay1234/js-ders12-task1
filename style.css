@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: whitesmoke;
+}
+.container{
+    width: 20vw;
+    height: 40vh;
+    margin: 200px auto;
+}
+input{
+    margin-top: 100px;
+    padding: 8px;
+}
+button{
+    margin-top: 20px;
+    padding: 8px;
+    background-color: rgb(73, 73, 255);
+    color: white;
+    border: none;
+}
+p{
+    margin-top: 10px;
+    background-color: white;
+    width: 10vw;
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 90px;
+    font-size: 12px;
+}
